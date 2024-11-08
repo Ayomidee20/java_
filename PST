@@ -1,0 +1,13 @@
+HelloWorldApp/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── HelloWorld.java
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── HelloWorldTest.java
+└── pom.xml
